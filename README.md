@@ -17,4 +17,4 @@
 
 - 📄 Know about my experiences (https://www.linkedin.com/in/adeoyemalumi/)
 
-- ⚡ Fun fact **Runner, Reader,Visual Artist, Explorer**
+- ⚡ Fun fact **Runner, Reader,Visual Artist, Explorer, Writer**
