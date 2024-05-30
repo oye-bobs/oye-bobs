@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the use of AI to scale up your business and make your tasks easier**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at :
 1. github page [https://github.com/oye-bobs]
 2. portfolio page[https://oye-bobs.github.io/]
 
