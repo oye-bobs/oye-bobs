@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning **the use of AI to scale up your business and make your tasks easier**
 
 - 👨‍💻 All of my projects are available at
-1. github [https://github.com/oye-bobs]
-2. portfolion [https://oye-bobs.github.io/]
+1. github page [https://github.com/oye-bobs]
+2. portfolio page[https://oye-bobs.github.io/]
 
 - 📝 I write articles on Geology, Self-help, Spirituality, Psychology, and Analytics .
 
