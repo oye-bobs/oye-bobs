@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adeoye Malumi</h1>
+<h3 align="center"> Data scientist with a BSc. in Geology and Earth Sciences, University of Benin, Edo State, Nigeria </h3>
 
-<!--
-**oye-bobs/oye-bobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **earth Data Science and Artificial Intelligence projects**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **the use of AI to scale up your business and make your tasks easier**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [https://github.com/oye-bobs]
+
+- 📝 I write articles on Geology, Self-help, Spirituality, Psychology, and Analytics .
+
+- 💬 Ask me about **Python, R, SQL, Tableau, Artificial Intelligence, Power BI, Microsoft Excel, and Geology**
+
+- 📫 How to reach me **adeoyeayan@gmail.com**
+
+- 📄 Know about my experiences (https://www.linkedin.com/in/adeoyemalumi/)
+
+- ⚡ Fun fact **Runner, Reader,Visual Artist, Explorer**
