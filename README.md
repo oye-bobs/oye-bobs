@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeoye Malumi</h1>
-<h3 align="center"> Data scientist with a BSc. in Geology and Earth Sciences, University of Benin, Edo State, Nigeria </h3>
+<h3 align="center"> Data scientist with a BSc. in Geology and Earth Sciences,obtained from University of Benin, Edo State, Nigeria </h3>
 
 - 🔭 I’m currently working on **earth Data Science and Artificial Intelligence projects**
 
